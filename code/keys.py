@@ -26,3 +26,4 @@ modifier_keys = {
 }
 
 ctx.lists["self.modifier_key"] = modifier_keys
+
